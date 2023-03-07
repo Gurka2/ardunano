@@ -1,7 +1,7 @@
 [package]
 name = "ardunano"
 version = "0.1.0"
-authors = ["martin <marho227@student.liu.se>"]
+authors = ["martin <martin.hogstedt@hotmail.com>"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
 
